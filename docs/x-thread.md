@@ -113,4 +113,3 @@ The next research question is measurable: does an agent change its task or attem
 A conservative check uses the [twitter-text v3 weight ranges and 23-character URL length](https://github.com/twitter/twitter-text/blob/master/config/v3.json), treating each non-ASCII emoji as two units.
 
 Weighted lengths including the post number and two newlines: 253, 252, 226, 236, 263, 272, 266, 262, 271, 266. All posts fit 280 units. Check the final rendering in the composer before publication.
-
