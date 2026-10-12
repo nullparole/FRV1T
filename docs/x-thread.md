@@ -1,6 +1,8 @@
 # X thread: the blueberry prompt injection
 
-Ready-to-post copy, based on static analysis of upstream commit `24dbe8c`. No X posts have been published and no live agent compliance experiment was run. Numbering is included in the length check.
+Published as [a 10-post thread by @nullparole](https://x.com/nullparole/status/2109790463670567239), using the local xmcp server. All ten create responses returned post IDs; the final post's conversation ID matches the root. [Publication receipt](x-publication.json).
+
+The copy is based on static analysis of upstream commit `24dbe8c`. No live agent compliance experiment was run. Numbering is included in the length check.
 
 ## Posts
 

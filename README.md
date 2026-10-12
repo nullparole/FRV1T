@@ -10,7 +10,7 @@ This fork treats the original file and decoded text as **untrusted evidence**. T
 - [Decoder](scripts/decode_frv2.py): Python standard library, bounded decompression, integrity checks.
 - [Decoded evidence and hashes](docs/research/evidence/manifest.json); [exact plaintext](docs/research/evidence/decoded.txt) contains untrusted instructions.
 - [Harmless examples](examples/README.md), including a reproducible roundtrip.
-- [X thread draft](docs/x-thread.md), prepared for later editing and publication.
+- [Published X thread](https://x.com/nullparole/status/2109790463670567239), with [copy and publication receipt](docs/x-thread.md).
 
 ## Reproduce
 
